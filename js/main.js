@@ -3,6 +3,7 @@ var slider_1 = new PlasmaSlider({
   width: 16,
   height: 9,
   showThumbnails: true,
+  rtl: false
   // blurBackground: false,
   // backgroundColor: '#000'
   /* images: [
